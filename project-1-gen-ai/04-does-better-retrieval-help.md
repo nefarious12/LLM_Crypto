@@ -33,7 +33,7 @@ At 40-word chunks, BM25 ranked the right chunk first for 76% of questions, again
 
 **Key takeaway:** Find the failing stage before you upgrade a component. A ten-minute measurement can save a week of tuning the wrong thing.
 
-🔗 Code: https://github.com/nefarious12/Crypto/tree/main/genai-finance (`python -m genai_finance.compare_retrievers`)
+🔗 Code: https://github.com/nefarious12/LLM_Crypto/tree/main/project-1-gen-ai/code (`python -m genai_finance.compare_retrievers`)
 
 💬 Have you ever "fixed" a part of a system that turned out not to be the problem?
 

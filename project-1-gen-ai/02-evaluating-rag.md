@@ -34,7 +34,7 @@ So I built a test set of 25 questions (21 answerable, 4 not) and scored the pipe
 
 **Key takeaway:** Measure retrieval and answers separately, and tune the refusal threshold on purpose.
 
-🔗 Code and test set: https://github.com/nefarious12/Crypto/tree/main/genai-finance
+🔗 Code and test set: https://github.com/nefarious12/LLM_Crypto/tree/main/project-1-gen-ai/code
 
 🔜 **Next:** Making it safe. Prompt injection, PII and audit trails.
 

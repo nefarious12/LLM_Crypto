@@ -24,7 +24,7 @@ Pattern matching is a first line of defense, not a solution. Real systems add a 
 
 **Key takeaway:** Assume inputs and documents are hostile, log everything safely, require human approval for irreversible actions, and test your defenses with real attacks.
 
-🔗 Code and tests: https://github.com/nefarious12/Crypto/tree/main/genai-finance
+🔗 Code and tests: https://github.com/nefarious12/LLM_Crypto/tree/main/project-1-gen-ai/code
 
 🙏 This wraps up the three-project series: RAG, evaluation and guardrails. I'm open to roles in GenAI and LLM applications for finance. If your team is hiring, I'd welcome a message.
 
