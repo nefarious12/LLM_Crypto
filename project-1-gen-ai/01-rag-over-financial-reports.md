@@ -31,7 +31,7 @@ The demo uses a synthetic company report and keyword-based retrieval. It's a wor
 
 **Key takeaway:** In finance, a RAG system is only as good as its citations and its willingness to say "I don't know."
 
-🔗 Code: https://github.com/nefarious12/Crypto/tree/main/genai-finance
+🔗 Code: https://github.com/nefarious12/LLM_Crypto/tree/main/project-1-gen-ai/code
 
 🔜 **Next:** How do you know your RAG app is any good? Building an evaluation.
 
