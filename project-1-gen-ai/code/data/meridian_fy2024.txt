@@ -1,0 +1,41 @@
+MERIDIAN HOLDINGS, INC. (FICTIONAL COMPANY)
+ANNUAL REPORT EXCERPT, FISCAL YEAR 2024
+This document is invented for demonstration only. Meridian Holdings does not exist and the figures are not real.
+
+SECTION 1. BUSINESS OVERVIEW
+
+Meridian Holdings is a financial services company with three segments: Payments, Lending and Wealth. Payments contributed 52% of revenue in fiscal 2024, Lending contributed 31% and Wealth contributed 17%. The company had 11,200 employees at the end of the fiscal year. The Chief Executive Officer is Priya Raman and the Chief Financial Officer is Daniel Okafor.
+
+By geography, North America generated 64% of revenue, Europe generated 22% and Asia Pacific generated 14%. No single customer accounted for more than 6% of revenue in fiscal 2024.
+
+SECTION 2. FINANCIAL RESULTS
+
+Total revenue for fiscal 2024 was $4.82 billion, an increase of 9% from $4.42 billion in fiscal 2023. Net income was $612 million, compared with $548 million in the prior year. Operating margin improved to 18.4% from 17.9%.
+
+Payments revenue grew 12% year over year, driven by higher transaction volumes and the launch of a cross-border product in Europe. Lending revenue grew 5%, held back by lower origination volumes in the first half of the year. Wealth revenue grew 8% as client assets under management rose to $38 billion.
+
+Diluted earnings per share were $2.71 for fiscal 2024.
+
+SECTION 3. CAPITAL AND LIQUIDITY
+
+At year end the company held $1.9 billion in cash and cash equivalents. Long-term debt consisted of $2.3 billion of senior notes due in 2029 carrying a 4.5% coupon. The Common Equity Tier 1 ratio was 12.6%, above the regulatory minimum.
+
+Capital expenditure was $310 million in fiscal 2024, mainly for technology infrastructure and security upgrades. The board declared dividends of $0.84 per share, totaling $190 million. The board also approved a share repurchase authorization of up to $250 million over the next two years.
+
+SECTION 4. CREDIT QUALITY
+
+The allowance for credit losses was $420 million, equal to 2.1% of total loans. The net charge-off rate was 1.6% for the year, compared with 1.4% in fiscal 2023. Management attributes the increase to higher delinquencies in unsecured consumer loans.
+
+SECTION 5. RISK FACTORS
+
+Interest rate risk. A decline of 100 basis points in interest rates would reduce annual net interest income by approximately $38 million, based on the balance sheet at year end.
+
+Cybersecurity risk. In March 2024 the company detected unauthorized access that affected approximately 12,000 customer accounts. The incident was contained within 48 hours. Total costs related to the incident were $14 million, including customer notification and credit monitoring. Regulators were notified in accordance with applicable rules.
+
+Regulatory risk. The company is subject to capital, liquidity and consumer protection requirements in each market where it operates. Changes in these requirements could increase compliance costs or limit certain products.
+
+Competition risk. The Payments segment competes with large technology companies and specialized payment startups. Pricing pressure could reduce margins.
+
+SECTION 6. OUTLOOK FOR FISCAL 2025
+
+Management expects revenue growth of 7% to 9% in fiscal 2025. Capital expenditure is expected to be approximately $340 million. The company expects the net charge-off rate to remain between 1.5% and 1.8%. The company plans to open two new technology hubs, in Dublin and Pune, during the year.
